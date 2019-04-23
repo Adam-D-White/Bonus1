@@ -1,0 +1,7 @@
+C:\Users\Adam White\source\repos\AdamBonus1\AdamBonus1\bin\Debug\AdamBonus1.exe.config
+C:\Users\Adam White\source\repos\AdamBonus1\AdamBonus1\bin\Debug\AdamBonus1.exe
+C:\Users\Adam White\source\repos\AdamBonus1\AdamBonus1\bin\Debug\AdamBonus1.pdb
+C:\Users\Adam White\source\repos\AdamBonus1\AdamBonus1\obj\Debug\AdamBonus1.csprojAssemblyReference.cache
+C:\Users\Adam White\source\repos\AdamBonus1\AdamBonus1\obj\Debug\AdamBonus1.csproj.CoreCompileInputs.cache
+C:\Users\Adam White\source\repos\AdamBonus1\AdamBonus1\obj\Debug\AdamBonus1.exe
+C:\Users\Adam White\source\repos\AdamBonus1\AdamBonus1\obj\Debug\AdamBonus1.pdb
